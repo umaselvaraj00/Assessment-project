@@ -1,0 +1,40 @@
+{
+  "todotask": [
+    {
+      "id": 1,
+      "task": "kurthies"
+    },
+    {
+      "id": 2,
+      "task": "shirts",
+      "price": 300,
+      "amount": 0,
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "task": "watches",
+      "price": 250,
+      "amount": 0,
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "task": "accesseries",
+      "price": 150,
+      "amount": 0,
+      "quantity": 0
+    },
+    {
+      "id": 5,
+      "task": "toys",
+      "price": 100,
+      "amount": 0,
+      "quantity": 0
+    },
+    {
+      "id": 6,
+      "task": "dresses"
+    }
+  ]
+}
