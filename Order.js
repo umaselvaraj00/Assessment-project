@@ -71,6 +71,7 @@ const Order=()=>{
                             id:tasks.id,
                             task:tasks.task,
                             price:tasks.price,
+                            quantity:tasks.quantity,
                             amount:tasks.amount,
                         },
                     ];
