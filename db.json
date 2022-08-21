@@ -2,7 +2,10 @@
   "todotask": [
     {
       "id": 1,
-      "task": "kurthies"
+      "task": "kurthies",
+      "price":200,
+      "quantity":0,
+      "amount":0
     },
     {
       "id": 2,
